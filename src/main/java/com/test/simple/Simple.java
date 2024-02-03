@@ -6,7 +6,7 @@ public class Simple {
 		// TODO Auto-generated method stub
 		System.out.println("Best");
 		System.out.println("log");
-		System.out.println("there");
+		
 	}
 
 }
